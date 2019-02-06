@@ -1,6 +1,6 @@
 # Github
 
-git init /n
-git status /n
-git add file /n
+git init <br/>
+git status <br/>
+git add file <br/>
 git commit -m "First Commit"
