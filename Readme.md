@@ -7,3 +7,4 @@ git add -A <br/>
 git commit -m "First Commit" <br/>
 
 git remote add gitcourse git@github.com:davilima/github-course.git <br/>
+git push gitcourse master <br/>
