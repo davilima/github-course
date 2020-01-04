@@ -13,8 +13,13 @@ git remote -v  <br/>
 git remote add gitcourse git@github.com:davilima/github-course.git <br/>
 
 
-git push gitcourse master <br/>
 
+
+
+
+
+
+git push gitcourse master <br/>
 
 git pull gitcourse master <br/>
 
