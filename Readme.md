@@ -18,10 +18,17 @@ git push gitcourse master <br/>
 git pull gitcourse master <br/>
 
 
-git checkout -b lista <br/>
+git branch titulo <br/>
 
 
 
+git checkout master <br/>
+
+git merge titulo <br/>
+
+git checkout master <br/>
+
+git rebase titulo <br/>
 
 
  
