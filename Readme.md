@@ -22,6 +22,7 @@ git branch titulo <br/>
 
 
 
+
 git checkout master <br/>
 
 git merge titulo <br/>
@@ -29,6 +30,7 @@ git merge titulo <br/>
 git checkout master <br/>
 
 git rebase titulo <br/>
+
 
 
  
