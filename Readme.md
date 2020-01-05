@@ -32,5 +32,13 @@ git checkout master <br/>
 git rebase titulo <br/>
 
 
+git checkout -- index.html <br/>
+
+
+
+git log --oneline <br/>
+
+git stash lista <br/>
+
 
  
